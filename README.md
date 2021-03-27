@@ -11,4 +11,4 @@ Apprentissage supervisé
 https://www.kaggle.com/lepchenkov/usedcarscatalog
 
 # Auteurs :
-Céline YAN, Taïssir, Hugo, Mathilde LASSEIGNE, Alexandre, TheBolshe
+Céline YAN, Taïssir Marcé, Hugo, Mathilde LASSEIGNE, Alexandre Combeau, Yoyo
